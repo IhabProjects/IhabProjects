@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Ihab ELBANI (aka @IhabProjects), a passionate 
 - Game development (specifically Magic Academy-themed projects)
 
 ## 📫 How to reach me...
-- Email: ihab.elbani@example.com
+- Email: elbani.ihab@gmail.com
 - LinkedIn: [Ihab ELBANI LinkedIn](https://www.linkedin.com/in/ihabelbani)
 
 ## 😄 Pronouns: He/Him
