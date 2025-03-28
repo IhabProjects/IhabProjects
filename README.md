@@ -36,21 +36,21 @@
 🔗 *Coming soon to a GitHub repo near you!*  
 
 **🚗 Car Rental Manager**  
-*Automating car rental chaos (and saving businesses from Excel hell).*  
+*Automating car rental buisness (and saving businesses from Excel hell).*  
 
 **🎓 AUI Track**  
 *Crafting degree plans so students graduate before the heat death of the universe.*  
 
 **🧠 AUI Path Finder**  
-*Matchmaking students with their perfect major – Tinder for academic careers.*  
+*Matchmaking students with their perfect major.*  
 
 ---
 
 ## 🤝 **Let’s Team Up!**  
 I’m open to:  
  **🤝 Collaborations** on web apps, AI experiments, or CTF teams.  
- **💼 Job Opportunities** that value creativity + humor (and pay for coffee).  
- **🎮 Gaming Sessions** when the code compiles.  
+ **💼 Job Opportunities**.  
+ **🎮 Gaming Sessions** when pacman updates the system.  
 
 ---
 
@@ -63,8 +63,8 @@ I’m open to:
 ---
 
 ## 🕶️ **Hobbies & Fun Facts**  
- **🏐 Volleyball**: Spiking balls harder than production bugs.  
- **⛳ Golf**: Swinging clubs while debugging mental models.  
+ **🏐 Volleyball**: Best Libero.  
+ **⛳ Golf**: Swinging clubs.  
  **🎌 Anime/Gaming**: Evangelion > meetings. Speedrunning life.  
  **🐧 Arch Linux**: `sudo rm -rf /adulting`  
 
