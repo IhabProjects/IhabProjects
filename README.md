@@ -7,7 +7,7 @@
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IhabProjects&show_icons=true&theme=radical&hide_border=true)](https://github.com/IhabProjects)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=IhabProjects&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IhabProjects)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IhabProjects&layout=compact&theme=radical&hide_border=true)](https://github.com/IhabProjects)  
 ![Visitor Counter](https://komarev.com/ghpvc/?username=IhabProjects&color=blueviolet&label=People+Who+Regret+Not+Hiring+Me)  
 
